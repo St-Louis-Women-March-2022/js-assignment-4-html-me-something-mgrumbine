@@ -1,1 +1,111 @@
-/* Write your CSS here! */
+body {
+    color: white;
+    background-color: #303030;
+    font-size: 125%;
+    font-style: sans-serif;
+    margin: 8px;
+    display: block;
+ }
+ h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+ }
+ h2 {
+    padding: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+ }
+ #subheading1 {
+    color: #cd66ff
+ }
+ #subheading2 {
+    color: #ff6599
+ }
+ #mainheading {
+    color: red
+ }
+ #subheading4 {
+    color: #ff8e00
+ }
+ #subheading5 {
+    color: #ffff00
+ }
+ #subheading6 {
+    color: #008e00
+ }
+ #subheading7 {
+    color: #00c0c0
+ }
+ #subheading8 {
+    color: #400098
+ }
+ #subheading9 {
+    color: #8e008e
+ }
+ p {
+    margin: 25px 50px;
+    font-family: sans-serif;
+ }
+ .funParagraph{
+    color: green;
+ }
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 25px 50px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #111111;
+  }
+  #a1 {
+    background: #cd66ff;
+ }
+ #a2 {
+    background: #ff6599
+ }
+ #a3 {
+    background: red
+ }
+ #a4 {
+    background: #ff8e00
+ }
+ #a5 {
+    background: #ffff00
+ }
+ #a6 {
+    background: #008e00
+ }
+ #a7 {
+    background: #00c0c0
+ }
+ #a8 {
+    background: #400098
+ }
+ #a9 {
+    background: #8e008e
+ }
+ footer {
+    font-size: 75%;
+    color: green;
+ }
+ img {
+    display: block;
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+ }
